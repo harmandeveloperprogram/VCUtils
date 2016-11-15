@@ -29,4 +29,4 @@ Voice Client utilities
   // reboot and check if the wlan0 is visible
   ifconfig
   
-  
+ 
