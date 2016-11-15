@@ -1,0 +1,2 @@
+g++ fip.c -lcurl -o fip
+g++ SendLatency.c -lcurl -o SendLatency
