@@ -2,6 +2,6 @@
 while true
 do
 echo "run fip"
-/root/findIP/fip
+/root/VCUtils/findIP/fip
 sleep 60
 done
